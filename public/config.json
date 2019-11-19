@@ -15,21 +15,21 @@
 	"configurationArguments": {
 		"applicationExtensionKey": "8e9c745d-adb7-4793-bd0d-6222ad44fbe0",
 		"save": {
-			"url": "https://testingjourneybuilderapp.herokuapp.com/save",
+			"url": "https://bhanuguptadev-dev-ed.my.salesforce.com/services/data/v42.0/sobjects/contact/save",
 			"verb": "POST",
 			"body": "",
 			"useJwt": false
 			
 		},
 		"publish": {
-			"url": "https://testingjourneybuilderapp.herokuapp.com/publish",
+			"url": "https://bhanuguptadev-dev-ed.my.salesforce.com/services/data/v42.0/sobjects/contact/publish",
 			"verb": "POST",
 			"body": "",
 			"useJwt": false
 			
 		},
 		"validate": {
-			"url": "https://testingjourneybuilderapp.herokuapp.com/validate",
+			"url": "https://bhanuguptadev-dev-ed.my.salesforce.com/services/data/v42.0/sobjects/contact/validate",
 			"verb": "POST",
 			"body": "",
 			"useJwt": false
@@ -70,7 +70,7 @@
 		"execute": {
 			"inArguments": [],
 			"outArguments": [],
-			"url": "https://testingjourneybuilderapp.herokuapp.com/execute",
+			"url": "https://bhanuguptadev-dev-ed.my.salesforce.com/services/data/v42.0/sobjects/contact/execute",
 			"verb": "POST",
 			"body": "",
 			"header": "",
