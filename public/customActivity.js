@@ -106,7 +106,7 @@ define(function (require) {
 		payload['arguments'] = payload['arguments'] || {};
 		payload['arguments'].execute = payload['arguments'].execute || {};
 
-		var idField = deFields.length > 0 ? $('#select-id-dropdown').val() : $('#select-id').val();
+		var idField = deFields.length > 0 ? $('#select-id-dropdown').val() : 'ContactId';
 
 		payload['arguments'].execute.inArguments = [{
 			'serviceCloudId': '{{Event.' + eventDefinitionKey + '.\"' + idField + '\"}}'
