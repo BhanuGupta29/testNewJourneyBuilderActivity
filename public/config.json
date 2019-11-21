@@ -16,7 +16,7 @@
 		"applicationExtensionKey": "06f434f8-d3fc-4625-a979-75dead003c05",
 		
 		"publish": {
-			"url": "https://testingjourneybuilderapp.herokuapp.com/activity/",
+			"url": "https://testingjourneybuilderapp.herokuapp.com",
 			"verb": "POST",
 			"body": "",
 			"useJwt": true
