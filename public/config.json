@@ -16,7 +16,7 @@
 		"applicationExtensionKey": "06f434f8-d3fc-4625-a979-75dead003c05",
 		
 		"publish": {
-			"url": "https://testingjourneybuilderapp.herokuapp.com",
+			"url": "https://testingjourneybuilderapp.herokuapp.com/publish/",
 			"verb": "POST",
 			"body": "",
 			"useJwt": true
@@ -57,7 +57,7 @@
 		"execute": {
 			"inArguments": [],
 			"outArguments": [],
-			"url": "https://testingjourneybuilderapp.herokuapp.com/activity/execute",
+			"url": "https://testingjourneybuilderapp.herokuapp.com/execute/",
 			"verb": "POST",
 			"body": "",
 			"header": "",
@@ -67,7 +67,7 @@
 		}
 	},
 	"edit": {
-		"url": "https://testingjourneybuilderapp.herokuapp.com/index.html",
+		"url": "https://testingjourneybuilderapp.herokuapp.com/",
 		"height": 200,
 		"width": 500
 	}
