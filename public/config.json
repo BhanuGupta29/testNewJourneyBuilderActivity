@@ -20,6 +20,7 @@
 			"verb": "POST",
 			"body": "",
 			"useJwt": true,
+			"customerKey": "ftVop0NSPF1l6fVBrsmRN6YCf_O9o2Do85T502SOWDP69yzn0zzM1zRIh49fI3IEEaj5t7xIRg8unUZ5odbjTxYMRs5jV9UfYGIenNty1XvBg0BQADXSBdzBJcWDj5WPVdGnhA_3mp9OgyXSOR8AzbJRlEX0GKEDjtP9NY-bEbzzc-sLIUhpD2-2yp8LH3nqubFS2YgUZubW_gNONGsm03AkItOXpJiKXu3A7FcDmlgpDdS-M9dbQV80ybcFPA2",
 			"timeout": 90000
 			
 		}
@@ -64,6 +65,7 @@
 			"header": "",
 			"format": "json",
 			"useJwt": true,
+			"customerKey": "ftVop0NSPF1l6fVBrsmRN6YCf_O9o2Do85T502SOWDP69yzn0zzM1zRIh49fI3IEEaj5t7xIRg8unUZ5odbjTxYMRs5jV9UfYGIenNty1XvBg0BQADXSBdzBJcWDj5WPVdGnhA_3mp9OgyXSOR8AzbJRlEX0GKEDjtP9NY-bEbzzc-sLIUhpD2-2yp8LH3nqubFS2YgUZubW_gNONGsm03AkItOXpJiKXu3A7FcDmlgpDdS-M9dbQV80ybcFPA2",
 			"timeout": 90000
 		}
 	},
