@@ -7,7 +7,7 @@
 	"type": "RESTDECISION",
 	"lang": {
 		"en-US": {
-			"name": "Custom Split",
+			"name": "Custom Split Activity",
 			"description": "Custom Split activity that makes a decision based on data from Service Cloud"
 		}
 	},
@@ -19,7 +19,8 @@
 			"url": "https://testingjourneybuilderapp.herokuapp.com/publish/",
 			"verb": "POST",
 			"body": "",
-			"useJwt": true
+			"useJwt": true,
+			"timeout": 90000
 			
 		}
 	},
